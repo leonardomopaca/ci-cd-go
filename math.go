@@ -11,4 +11,4 @@ func soma(a int, b int) int {
 	return a + b
 }
 
-func multiplica(a int, b int) int { return a * b }
+func multiplica(a float64, b float64) float64 { return a * b }
